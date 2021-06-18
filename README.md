@@ -1,3 +1,3 @@
-# Todo List - Desafio
+# Contact Form - Challenge
 
-Challenge to full-stack: PHP 7 and Angular.
+Challenge to full-stack: PHP 7 and React.
